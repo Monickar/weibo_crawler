@@ -1,5 +1,6 @@
 # weibo_crawler
 A python homework about crawler in BUPT
+北邮网安院 2023春 python 
 
 ## 使用指南 
 本程序 用于对微博热搜 及其 热评内容的爬取  
