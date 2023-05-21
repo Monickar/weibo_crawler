@@ -6,7 +6,9 @@ A python homework about crawler in BUPT
 本程序 用于对微博热搜 及其 热评内容的爬取  
 运行 `python3 main.py` 即可 生成 可视化UI 进行操作
 
-![avatar](GUI.png)
+<img src="./GUI.png"  style="zoom:50%;" />
+
+
 ### 搜索 ：
 爬去并且展示 微博热搜 
 ### 获取评论：
